@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  ALX Airbnb Database Project
 
 This repository contains a professionally designed relational database for an Airbnb-like platform. It includes a complete schema, normalization documentation, ERD diagrams, DDL scripts, and sample data scripts for simulation.
